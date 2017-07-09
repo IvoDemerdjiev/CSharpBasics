@@ -1,0 +1,6 @@
+D:\C#\Tree\Exam\ExamProblem2\bin\Debug\ExamProblem2.exe.config
+D:\C#\Tree\Exam\ExamProblem2\bin\Debug\ExamProblem2.exe
+D:\C#\Tree\Exam\ExamProblem2\bin\Debug\ExamProblem2.pdb
+D:\C#\Tree\Exam\ExamProblem2\obj\Debug\ExamProblem2.exe
+D:\C#\Tree\Exam\ExamProblem2\obj\Debug\ExamProblem2.pdb
+D:\C#\Tree\Exam\ExamProblem2\obj\Debug\ExamProblem2.csprojResolveAssemblyReference.cache

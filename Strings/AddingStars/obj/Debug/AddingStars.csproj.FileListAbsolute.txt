@@ -1,0 +1,6 @@
+D:\C#\Tree\Strings\AddingStars\bin\Debug\AddingStars.exe.config
+D:\C#\Tree\Strings\AddingStars\bin\Debug\AddingStars.exe
+D:\C#\Tree\Strings\AddingStars\bin\Debug\AddingStars.pdb
+D:\C#\Tree\Strings\AddingStars\obj\Debug\AddingStars.exe
+D:\C#\Tree\Strings\AddingStars\obj\Debug\AddingStars.pdb
+D:\C#\Tree\Strings\AddingStars\obj\Debug\AddingStars.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\PickYourTask\bin\Debug\PickYourTask.exe.config
+D:\C#\Tree\Methods\PickYourTask\bin\Debug\PickYourTask.exe
+D:\C#\Tree\Methods\PickYourTask\bin\Debug\PickYourTask.pdb
+D:\C#\Tree\Methods\PickYourTask\obj\Debug\PickYourTask.exe
+D:\C#\Tree\Methods\PickYourTask\obj\Debug\PickYourTask.pdb
+D:\C#\Tree\Methods\PickYourTask\obj\Debug\PickYourTask.csprojResolveAssemblyReference.cache

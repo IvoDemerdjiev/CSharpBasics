@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\IntSum\bin\Debug\IntSum.exe.config
+D:\C#\Tree\Methods\IntSum\bin\Debug\IntSum.exe
+D:\C#\Tree\Methods\IntSum\bin\Debug\IntSum.pdb
+D:\C#\Tree\Methods\IntSum\obj\Debug\IntSum.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Methods\IntSum\obj\Debug\IntSum.exe
+D:\C#\Tree\Methods\IntSum\obj\Debug\IntSum.pdb

@@ -1,0 +1,10 @@
+D:\C#\Tree\StringsandTextProcessing\Test2\bin\Debug\Test2.exe.config
+D:\C#\Tree\StringsandTextProcessing\Test2\bin\Debug\Test2.exe
+D:\C#\Tree\StringsandTextProcessing\Test2\bin\Debug\Test2.pdb
+D:\C#\Tree\StringsandTextProcessing\Test2\obj\Debug\Test2.exe
+D:\C#\Tree\StringsandTextProcessing\Test2\obj\Debug\Test2.pdb
+E:\C#\Tree\StringsandTextProcessing\Test2\bin\Debug\Test2.exe.config
+E:\C#\Tree\StringsandTextProcessing\Test2\bin\Debug\Test2.exe
+E:\C#\Tree\StringsandTextProcessing\Test2\bin\Debug\Test2.pdb
+E:\C#\Tree\StringsandTextProcessing\Test2\obj\Debug\Test2.exe
+E:\C#\Tree\StringsandTextProcessing\Test2\obj\Debug\Test2.pdb

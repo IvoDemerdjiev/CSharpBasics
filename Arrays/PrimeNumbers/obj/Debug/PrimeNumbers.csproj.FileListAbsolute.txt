@@ -1,0 +1,6 @@
+D:\C#\Tree\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\C#\Tree\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\C#\Tree\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\C#\Tree\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\C#\Tree\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

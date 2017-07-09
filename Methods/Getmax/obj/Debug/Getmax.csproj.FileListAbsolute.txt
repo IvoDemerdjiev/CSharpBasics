@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\Getmax\bin\Debug\Getmax.exe.config
+D:\C#\Tree\Methods\Getmax\bin\Debug\Getmax.exe
+D:\C#\Tree\Methods\Getmax\bin\Debug\Getmax.pdb
+D:\C#\Tree\Methods\Getmax\obj\Debug\Getmax.exe
+D:\C#\Tree\Methods\Getmax\obj\Debug\Getmax.pdb
+D:\C#\Tree\Methods\Getmax\obj\Debug\Getmax.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\C#\Tree\Methods\BackWords\bin\Debug\BackWords.exe.config
+D:\C#\Tree\Methods\BackWords\bin\Debug\BackWords.exe
+D:\C#\Tree\Methods\BackWords\bin\Debug\BackWords.pdb
+D:\C#\Tree\Methods\BackWords\obj\Debug\BackWords.exe
+D:\C#\Tree\Methods\BackWords\obj\Debug\BackWords.pdb

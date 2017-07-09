@@ -1,0 +1,6 @@
+D:\C#\Tree\ExceptionHandling\DownloadFileFromInternet\bin\Debug\DownloadFileFromInternet.exe.config
+D:\C#\Tree\ExceptionHandling\DownloadFileFromInternet\bin\Debug\DownloadFileFromInternet.exe
+D:\C#\Tree\ExceptionHandling\DownloadFileFromInternet\bin\Debug\DownloadFileFromInternet.pdb
+D:\C#\Tree\ExceptionHandling\DownloadFileFromInternet\obj\Debug\DownloadFileFromInternet.csprojResolveAssemblyReference.cache
+D:\C#\Tree\ExceptionHandling\DownloadFileFromInternet\obj\Debug\DownloadFileFromInternet.exe
+D:\C#\Tree\ExceptionHandling\DownloadFileFromInternet\obj\Debug\DownloadFileFromInternet.pdb

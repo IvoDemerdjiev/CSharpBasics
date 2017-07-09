@@ -1,0 +1,6 @@
+D:\C#\Tree\Strings\UpcaseLetters\bin\Debug\UpcaseLetters.exe.config
+D:\C#\Tree\Strings\UpcaseLetters\bin\Debug\UpcaseLetters.exe
+D:\C#\Tree\Strings\UpcaseLetters\bin\Debug\UpcaseLetters.pdb
+D:\C#\Tree\Strings\UpcaseLetters\obj\Debug\UpcaseLetters.exe
+D:\C#\Tree\Strings\UpcaseLetters\obj\Debug\UpcaseLetters.pdb
+D:\C#\Tree\Strings\UpcaseLetters\obj\Debug\UpcaseLetters.csprojResolveAssemblyReference.cache

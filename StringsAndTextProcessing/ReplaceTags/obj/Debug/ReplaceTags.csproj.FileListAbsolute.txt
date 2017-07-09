@@ -1,0 +1,12 @@
+D:\C#\Tree\StringsandTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+D:\C#\Tree\StringsandTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe
+D:\C#\Tree\StringsandTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.pdb
+D:\C#\Tree\StringsandTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+D:\C#\Tree\StringsandTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb
+D:\C#\Tree\StringsandTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+E:\C#\Tree\StringsandTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe
+E:\C#\Tree\StringsandTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.pdb
+E:\C#\Tree\StringsandTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+E:\C#\Tree\StringsandTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb

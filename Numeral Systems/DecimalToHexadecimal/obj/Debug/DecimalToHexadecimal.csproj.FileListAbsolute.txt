@@ -1,0 +1,9 @@
+D:\C#\Tree\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+D:\C#\Tree\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+D:\C#\Tree\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+D:\C#\Tree\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+D:\C#\Tree\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb
+E:\C#\Tree\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+E:\C#\Tree\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+E:\C#\Tree\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

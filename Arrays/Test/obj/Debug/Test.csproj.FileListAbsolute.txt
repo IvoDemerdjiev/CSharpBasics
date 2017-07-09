@@ -1,0 +1,9 @@
+D:\C#\Tree\Arrays\Test\bin\Debug\Test.exe.config
+D:\C#\Tree\Arrays\Test\bin\Debug\Test.exe
+D:\C#\Tree\Arrays\Test\bin\Debug\Test.pdb
+D:\C#\Tree\Arrays\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Arrays\Test\obj\Debug\Test.exe
+D:\C#\Tree\Arrays\Test\obj\Debug\Test.pdb
+E:\C#\Tree\Arrays\Test\bin\Debug\Test.exe.config
+E:\C#\Tree\Arrays\Test\obj\Debug\Test.exe
+E:\C#\Tree\Arrays\Test\obj\Debug\Test.pdb

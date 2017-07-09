@@ -1,0 +1,6 @@
+D:\C#\Tree\ExamPrep\BitsToBits\bin\Debug\BitsToBits.exe.config
+D:\C#\Tree\ExamPrep\BitsToBits\bin\Debug\BitsToBits.exe
+D:\C#\Tree\ExamPrep\BitsToBits\bin\Debug\BitsToBits.pdb
+D:\C#\Tree\ExamPrep\BitsToBits\obj\Debug\BitsToBits.csprojResolveAssemblyReference.cache
+D:\C#\Tree\ExamPrep\BitsToBits\obj\Debug\BitsToBits.exe
+D:\C#\Tree\ExamPrep\BitsToBits\obj\Debug\BitsToBits.pdb

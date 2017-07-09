@@ -1,0 +1,12 @@
+D:\C#\Tree\StringsandTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+D:\C#\Tree\StringsandTextProcessing\StringLength\bin\Debug\StringLength.exe
+D:\C#\Tree\StringsandTextProcessing\StringLength\bin\Debug\StringLength.pdb
+D:\C#\Tree\StringsandTextProcessing\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+D:\C#\Tree\StringsandTextProcessing\StringLength\obj\Debug\StringLength.exe
+D:\C#\Tree\StringsandTextProcessing\StringLength\obj\Debug\StringLength.pdb
+E:\C#\Tree\StringsandTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+E:\C#\Tree\StringsandTextProcessing\StringLength\bin\Debug\StringLength.exe
+E:\C#\Tree\StringsandTextProcessing\StringLength\bin\Debug\StringLength.pdb
+E:\C#\Tree\StringsandTextProcessing\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\StringLength\obj\Debug\StringLength.exe
+E:\C#\Tree\StringsandTextProcessing\StringLength\obj\Debug\StringLength.pdb

@@ -1,0 +1,9 @@
+D:\C#\Tree\CSharpAdvancedExam\Test\bin\Debug\Test.exe.config
+D:\C#\Tree\CSharpAdvancedExam\Test\bin\Debug\Test.exe
+D:\C#\Tree\CSharpAdvancedExam\Test\bin\Debug\Test.pdb
+D:\C#\Tree\CSharpAdvancedExam\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\C#\Tree\CSharpAdvancedExam\Test\obj\Debug\Test.exe
+D:\C#\Tree\CSharpAdvancedExam\Test\obj\Debug\Test.pdb
+E:\C#\Tree\CSharpAdvancedExam\Test\bin\Debug\Test.exe.config
+E:\C#\Tree\CSharpAdvancedExam\Test\obj\Debug\Test.exe
+E:\C#\Tree\CSharpAdvancedExam\Test\obj\Debug\Test.pdb

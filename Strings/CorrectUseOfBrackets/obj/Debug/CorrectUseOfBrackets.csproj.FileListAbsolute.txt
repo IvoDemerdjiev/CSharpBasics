@@ -1,0 +1,6 @@
+D:\C#\Tree\Strings\CorrectUseOfBrackets\bin\Debug\CorrectUseOfBrackets.exe.config
+D:\C#\Tree\Strings\CorrectUseOfBrackets\bin\Debug\CorrectUseOfBrackets.exe
+D:\C#\Tree\Strings\CorrectUseOfBrackets\bin\Debug\CorrectUseOfBrackets.pdb
+D:\C#\Tree\Strings\CorrectUseOfBrackets\obj\Debug\CorrectUseOfBrackets.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Strings\CorrectUseOfBrackets\obj\Debug\CorrectUseOfBrackets.exe
+D:\C#\Tree\Strings\CorrectUseOfBrackets\obj\Debug\CorrectUseOfBrackets.pdb

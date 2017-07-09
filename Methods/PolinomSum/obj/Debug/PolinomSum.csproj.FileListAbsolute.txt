@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\PolinomSum\bin\Debug\PolinomSum.exe.config
+D:\C#\Tree\Methods\PolinomSum\bin\Debug\PolinomSum.exe
+D:\C#\Tree\Methods\PolinomSum\bin\Debug\PolinomSum.pdb
+D:\C#\Tree\Methods\PolinomSum\obj\Debug\PolinomSum.exe
+D:\C#\Tree\Methods\PolinomSum\obj\Debug\PolinomSum.pdb
+D:\C#\Tree\Methods\PolinomSum\obj\Debug\PolinomSum.csprojResolveAssemblyReference.cache

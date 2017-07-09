@@ -1,0 +1,6 @@
+D:\C#\Tree\Strings\UnicodeString\bin\Debug\UnicodeString.exe.config
+D:\C#\Tree\Strings\UnicodeString\bin\Debug\UnicodeString.exe
+D:\C#\Tree\Strings\UnicodeString\bin\Debug\UnicodeString.pdb
+D:\C#\Tree\Strings\UnicodeString\obj\Debug\UnicodeString.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Strings\UnicodeString\obj\Debug\UnicodeString.exe
+D:\C#\Tree\Strings\UnicodeString\obj\Debug\UnicodeString.pdb

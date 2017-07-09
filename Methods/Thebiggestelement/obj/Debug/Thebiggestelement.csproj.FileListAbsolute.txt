@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\Thebiggestelement\bin\Debug\Thebiggestelement.exe.config
+D:\C#\Tree\Methods\Thebiggestelement\bin\Debug\Thebiggestelement.exe
+D:\C#\Tree\Methods\Thebiggestelement\bin\Debug\Thebiggestelement.pdb
+D:\C#\Tree\Methods\Thebiggestelement\obj\Debug\Thebiggestelement.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Methods\Thebiggestelement\obj\Debug\Thebiggestelement.exe
+D:\C#\Tree\Methods\Thebiggestelement\obj\Debug\Thebiggestelement.pdb

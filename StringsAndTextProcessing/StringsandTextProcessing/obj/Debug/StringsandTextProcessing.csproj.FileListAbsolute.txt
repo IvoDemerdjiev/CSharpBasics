@@ -1,0 +1,6 @@
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe.config
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.pdb
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.csprojResolveAssemblyReference.cache
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.exe
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.pdb

@@ -1,0 +1,6 @@
+D:\C#\Tree\Strings\Strings\bin\Debug\Strings.exe.config
+D:\C#\Tree\Strings\Strings\bin\Debug\Strings.exe
+D:\C#\Tree\Strings\Strings\bin\Debug\Strings.pdb
+D:\C#\Tree\Strings\Strings\obj\Debug\BackWords.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Strings\Strings\obj\Debug\Strings.exe
+D:\C#\Tree\Strings\Strings\obj\Debug\Strings.pdb

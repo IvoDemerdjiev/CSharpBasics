@@ -1,0 +1,6 @@
+D:\C#\Tree\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe.config
+D:\C#\Tree\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe
+D:\C#\Tree\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.pdb
+D:\C#\Tree\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.exe
+D:\C#\Tree\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.pdb
+D:\C#\Tree\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.csprojResolveAssemblyReference.cache

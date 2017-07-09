@@ -1,0 +1,6 @@
+D:\C#\Tree\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\C#\Tree\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\C#\Tree\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\C#\Tree\ExceptionHandling\ExceptionHandling\obj\Debug\SqrtOfNumber.csprojResolveAssemblyReference.cache
+D:\C#\Tree\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\C#\Tree\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\Factorial\bin\Debug\Factorial.exe.config
+D:\C#\Tree\Methods\Factorial\bin\Debug\Factorial.exe
+D:\C#\Tree\Methods\Factorial\bin\Debug\Factorial.pdb
+D:\C#\Tree\Methods\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Methods\Factorial\obj\Debug\Factorial.exe
+D:\C#\Tree\Methods\Factorial\obj\Debug\Factorial.pdb

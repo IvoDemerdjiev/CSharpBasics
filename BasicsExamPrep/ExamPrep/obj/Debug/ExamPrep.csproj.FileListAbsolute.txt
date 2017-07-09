@@ -1,0 +1,6 @@
+D:\C#\Tree\ExamPrep\ExamPrep\bin\Debug\ExamPrep.exe.config
+D:\C#\Tree\ExamPrep\ExamPrep\bin\Debug\ExamPrep.exe
+D:\C#\Tree\ExamPrep\ExamPrep\bin\Debug\ExamPrep.pdb
+D:\C#\Tree\ExamPrep\ExamPrep\obj\Debug\ExamPrep.csprojResolveAssemblyReference.cache
+D:\C#\Tree\ExamPrep\ExamPrep\obj\Debug\ExamPrep.exe
+D:\C#\Tree\ExamPrep\ExamPrep\obj\Debug\ExamPrep.pdb

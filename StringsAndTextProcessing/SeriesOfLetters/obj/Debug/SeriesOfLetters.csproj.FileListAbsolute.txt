@@ -1,0 +1,10 @@
+D:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+D:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+D:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+D:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+D:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb
+E:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+E:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+E:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb
+E:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+E:\C#\Tree\StringsandTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb

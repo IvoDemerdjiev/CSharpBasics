@@ -1,0 +1,5 @@
+D:\C#\Tree\LoopsHomework\Task10\bin\Debug\Task10.exe.config
+D:\C#\Tree\LoopsHomework\Task10\bin\Debug\Task10.exe
+D:\C#\Tree\LoopsHomework\Task10\bin\Debug\Task10.pdb
+D:\C#\Tree\LoopsHomework\Task10\obj\Debug\Task10.exe
+D:\C#\Tree\LoopsHomework\Task10\obj\Debug\Task10.pdb

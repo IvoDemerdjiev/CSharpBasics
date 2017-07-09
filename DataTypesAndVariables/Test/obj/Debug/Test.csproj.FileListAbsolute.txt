@@ -1,0 +1,5 @@
+D:\C#\Tree\DataTypesAndVariables\Test\bin\Debug\Test.exe.config
+D:\C#\Tree\DataTypesAndVariables\Test\bin\Debug\Test.exe
+D:\C#\Tree\DataTypesAndVariables\Test\bin\Debug\Test.pdb
+D:\C#\Tree\DataTypesAndVariables\Test\obj\Debug\Test.exe
+D:\C#\Tree\DataTypesAndVariables\Test\obj\Debug\Test.pdb

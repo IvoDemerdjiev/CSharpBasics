@@ -1,0 +1,6 @@
+D:\C#\Tree\LoopsHomework\Task18\bin\Debug\Task18.exe.config
+D:\C#\Tree\LoopsHomework\Task18\bin\Debug\Task18.exe
+D:\C#\Tree\LoopsHomework\Task18\bin\Debug\Task18.pdb
+D:\C#\Tree\LoopsHomework\Task18\obj\Debug\Task18.csprojResolveAssemblyReference.cache
+D:\C#\Tree\LoopsHomework\Task18\obj\Debug\Task18.exe
+D:\C#\Tree\LoopsHomework\Task18\obj\Debug\Task18.pdb

@@ -1,0 +1,6 @@
+D:\C#\Tree\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
+D:\C#\Tree\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+D:\C#\Tree\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+D:\C#\Tree\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csprojResolveAssemblyReference.cache
+D:\C#\Tree\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
+D:\C#\Tree\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb

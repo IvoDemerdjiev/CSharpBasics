@@ -1,0 +1,5 @@
+D:\C#\Tree\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+D:\C#\Tree\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\C#\Tree\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\C#\Tree\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\C#\Tree\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

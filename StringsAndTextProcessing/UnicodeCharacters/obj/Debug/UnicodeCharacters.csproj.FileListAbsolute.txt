@@ -1,0 +1,12 @@
+D:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+D:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+D:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+D:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+D:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb
+D:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+E:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+E:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+E:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+E:\C#\Tree\StringsandTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

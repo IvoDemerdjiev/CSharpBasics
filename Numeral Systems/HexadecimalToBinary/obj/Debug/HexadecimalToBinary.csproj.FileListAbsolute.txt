@@ -1,0 +1,8 @@
+D:\C#\Tree\Numeral Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
+D:\C#\Tree\Numeral Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe
+D:\C#\Tree\Numeral Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.pdb
+D:\C#\Tree\Numeral Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.exe
+D:\C#\Tree\Numeral Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.pdb
+E:\C#\Tree\Numeral Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
+E:\C#\Tree\Numeral Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.exe
+E:\C#\Tree\Numeral Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.pdb

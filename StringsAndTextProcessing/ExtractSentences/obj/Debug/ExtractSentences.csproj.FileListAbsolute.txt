@@ -1,0 +1,12 @@
+D:\C#\Tree\StringsandTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+D:\C#\Tree\StringsandTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe
+D:\C#\Tree\StringsandTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.pdb
+D:\C#\Tree\StringsandTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.exe
+D:\C#\Tree\StringsandTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.pdb
+D:\C#\Tree\StringsandTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+E:\C#\Tree\StringsandTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe
+E:\C#\Tree\StringsandTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.pdb
+E:\C#\Tree\StringsandTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.exe
+E:\C#\Tree\StringsandTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.pdb

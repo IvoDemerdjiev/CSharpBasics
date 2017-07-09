@@ -1,0 +1,5 @@
+D:\C#\Tree\Numeral Systems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+D:\C#\Tree\Numeral Systems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+D:\C#\Tree\Numeral Systems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+D:\C#\Tree\Numeral Systems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+D:\C#\Tree\Numeral Systems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

@@ -1,0 +1,9 @@
+D:\C#\Tree\CSharpAdvancedExam\Task2\bin\Debug\Task2.exe.config
+D:\C#\Tree\CSharpAdvancedExam\Task2\bin\Debug\Task2.exe
+D:\C#\Tree\CSharpAdvancedExam\Task2\bin\Debug\Task2.pdb
+D:\C#\Tree\CSharpAdvancedExam\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\C#\Tree\CSharpAdvancedExam\Task2\obj\Debug\Task2.exe
+D:\C#\Tree\CSharpAdvancedExam\Task2\obj\Debug\Task2.pdb
+E:\C#\Tree\CSharpAdvancedExam\Task2\bin\Debug\Task2.exe.config
+E:\C#\Tree\CSharpAdvancedExam\Task2\obj\Debug\Task2.exe
+E:\C#\Tree\CSharpAdvancedExam\Task2\obj\Debug\Task2.pdb

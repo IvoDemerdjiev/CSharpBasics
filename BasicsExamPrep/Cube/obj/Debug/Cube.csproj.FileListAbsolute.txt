@@ -1,0 +1,5 @@
+D:\C#\Tree\ExamPrep\Cube\bin\Debug\Cube.exe.config
+D:\C#\Tree\ExamPrep\Cube\bin\Debug\Cube.exe
+D:\C#\Tree\ExamPrep\Cube\bin\Debug\Cube.pdb
+D:\C#\Tree\ExamPrep\Cube\obj\Debug\Cube.exe
+D:\C#\Tree\ExamPrep\Cube\obj\Debug\Cube.pdb

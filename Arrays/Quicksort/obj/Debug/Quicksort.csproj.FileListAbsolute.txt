@@ -1,0 +1,8 @@
+D:\C#\Tree\Arrays\Quicksort\bin\Debug\Quicksort.exe.config
+D:\C#\Tree\Arrays\Quicksort\bin\Debug\Quicksort.exe
+D:\C#\Tree\Arrays\Quicksort\bin\Debug\Quicksort.pdb
+D:\C#\Tree\Arrays\Quicksort\obj\Debug\Quicksort.exe
+D:\C#\Tree\Arrays\Quicksort\obj\Debug\Quicksort.pdb
+E:\C#\Tree\Arrays\Quicksort\bin\Debug\Quicksort.exe.config
+E:\C#\Tree\Arrays\Quicksort\obj\Debug\Quicksort.exe
+E:\C#\Tree\Arrays\Quicksort\obj\Debug\Quicksort.pdb

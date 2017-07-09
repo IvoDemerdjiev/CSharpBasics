@@ -1,0 +1,12 @@
+D:\C#\Tree\StringsandTextProcessing\ParseTags\bin\Debug\ParseTags.exe.config
+D:\C#\Tree\StringsandTextProcessing\ParseTags\bin\Debug\ParseTags.exe
+D:\C#\Tree\StringsandTextProcessing\ParseTags\bin\Debug\ParseTags.pdb
+D:\C#\Tree\StringsandTextProcessing\ParseTags\obj\Debug\ParseTags.exe
+D:\C#\Tree\StringsandTextProcessing\ParseTags\obj\Debug\ParseTags.pdb
+D:\C#\Tree\StringsandTextProcessing\ParseTags\obj\Debug\ParseTags.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\ParseTags\bin\Debug\ParseTags.exe.config
+E:\C#\Tree\StringsandTextProcessing\ParseTags\bin\Debug\ParseTags.exe
+E:\C#\Tree\StringsandTextProcessing\ParseTags\bin\Debug\ParseTags.pdb
+E:\C#\Tree\StringsandTextProcessing\ParseTags\obj\Debug\ParseTags.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\ParseTags\obj\Debug\ParseTags.exe
+E:\C#\Tree\StringsandTextProcessing\ParseTags\obj\Debug\ParseTags.pdb

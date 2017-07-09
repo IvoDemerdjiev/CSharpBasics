@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\PolynomMultiplication\bin\Debug\PolynomMultiplication.exe.config
+D:\C#\Tree\Methods\PolynomMultiplication\bin\Debug\PolynomMultiplication.exe
+D:\C#\Tree\Methods\PolynomMultiplication\bin\Debug\PolynomMultiplication.pdb
+D:\C#\Tree\Methods\PolynomMultiplication\obj\Debug\PolynomMultiplication.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Methods\PolynomMultiplication\obj\Debug\PolynomMultiplication.exe
+D:\C#\Tree\Methods\PolynomMultiplication\obj\Debug\PolynomMultiplication.pdb

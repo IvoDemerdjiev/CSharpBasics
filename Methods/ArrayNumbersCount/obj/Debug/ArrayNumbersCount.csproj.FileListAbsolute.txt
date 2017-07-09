@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\ArrayNumbersCount\bin\Debug\ArrayNumbersCount.exe.config
+D:\C#\Tree\Methods\ArrayNumbersCount\bin\Debug\ArrayNumbersCount.exe
+D:\C#\Tree\Methods\ArrayNumbersCount\bin\Debug\ArrayNumbersCount.pdb
+D:\C#\Tree\Methods\ArrayNumbersCount\obj\Debug\ArrayNumbersCount.exe
+D:\C#\Tree\Methods\ArrayNumbersCount\obj\Debug\ArrayNumbersCount.pdb
+D:\C#\Tree\Methods\ArrayNumbersCount\obj\Debug\ArrayNumbersCount.csprojResolveAssemblyReference.cache

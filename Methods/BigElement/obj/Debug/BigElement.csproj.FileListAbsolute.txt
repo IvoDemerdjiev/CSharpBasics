@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\BigElement\bin\Debug\BigElement.exe.config
+D:\C#\Tree\Methods\BigElement\bin\Debug\BigElement.exe
+D:\C#\Tree\Methods\BigElement\bin\Debug\BigElement.pdb
+D:\C#\Tree\Methods\BigElement\obj\Debug\BigElement.exe
+D:\C#\Tree\Methods\BigElement\obj\Debug\BigElement.pdb
+D:\C#\Tree\Methods\BigElement\obj\Debug\BigElement.csprojResolveAssemblyReference.cache

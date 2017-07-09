@@ -1,0 +1,6 @@
+D:\C#\Tree\LoopsHomework\LoopsHomework\bin\Debug\LoopsHomework.exe.config
+D:\C#\Tree\LoopsHomework\LoopsHomework\bin\Debug\LoopsHomework.exe
+D:\C#\Tree\LoopsHomework\LoopsHomework\bin\Debug\LoopsHomework.pdb
+D:\C#\Tree\LoopsHomework\LoopsHomework\obj\Debug\LoopsHomework.exe
+D:\C#\Tree\LoopsHomework\LoopsHomework\obj\Debug\LoopsHomework.pdb
+D:\C#\Tree\LoopsHomework\LoopsHomework\obj\Debug\Exsamples.csprojResolveAssemblyReference.cache

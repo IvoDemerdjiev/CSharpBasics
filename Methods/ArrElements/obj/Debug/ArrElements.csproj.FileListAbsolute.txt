@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\ArrElements\bin\Debug\ArrElements.exe.config
+D:\C#\Tree\Methods\ArrElements\bin\Debug\ArrElements.exe
+D:\C#\Tree\Methods\ArrElements\bin\Debug\ArrElements.pdb
+D:\C#\Tree\Methods\ArrElements\obj\Debug\ArrElements.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Methods\ArrElements\obj\Debug\ArrElements.exe
+D:\C#\Tree\Methods\ArrElements\obj\Debug\ArrElements.pdb

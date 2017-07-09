@@ -1,0 +1,1 @@
+D:\C#\Tree\Arrays\MaximaLIncreasingSequence\bin\Debug\MaximaLIncreasingSequence.exe.config

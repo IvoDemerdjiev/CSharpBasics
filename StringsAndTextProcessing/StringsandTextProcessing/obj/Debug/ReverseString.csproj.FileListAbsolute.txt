@@ -1,0 +1,11 @@
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe.config
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.pdb
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.exe
+D:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.pdb
+E:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe.config
+E:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.exe
+E:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\StringsandTextProcessing.pdb
+E:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.exe
+E:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\bin\Debug\StringsandTextProcessing.pdb
+E:\C#\Tree\StringsandTextProcessing\StringsandTextProcessing\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache

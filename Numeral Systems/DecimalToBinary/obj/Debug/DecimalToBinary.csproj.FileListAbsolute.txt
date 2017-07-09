@@ -1,0 +1,8 @@
+D:\C#\Tree\Numeral Systems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+D:\C#\Tree\Numeral Systems\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+D:\C#\Tree\Numeral Systems\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+D:\C#\Tree\Numeral Systems\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+D:\C#\Tree\Numeral Systems\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
+E:\C#\Tree\Numeral Systems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+E:\C#\Tree\Numeral Systems\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+E:\C#\Tree\Numeral Systems\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

@@ -1,0 +1,11 @@
+D:\C#\Tree\StringsandTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+D:\C#\Tree\StringsandTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+D:\C#\Tree\StringsandTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+D:\C#\Tree\StringsandTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+D:\C#\Tree\StringsandTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb
+E:\C#\Tree\StringsandTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+E:\C#\Tree\StringsandTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+E:\C#\Tree\StringsandTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+E:\C#\Tree\StringsandTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+E:\C#\Tree\StringsandTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

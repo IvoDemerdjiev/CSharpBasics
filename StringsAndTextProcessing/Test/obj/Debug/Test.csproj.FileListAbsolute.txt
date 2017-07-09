@@ -1,0 +1,9 @@
+D:\C#\Tree\StringsandTextProcessing\Test\bin\Debug\Test.exe.config
+D:\C#\Tree\StringsandTextProcessing\Test\bin\Debug\Test.exe
+D:\C#\Tree\StringsandTextProcessing\Test\bin\Debug\Test.pdb
+D:\C#\Tree\StringsandTextProcessing\Test\obj\Debug\Test.exe
+D:\C#\Tree\StringsandTextProcessing\Test\obj\Debug\Test.pdb
+D:\C#\Tree\StringsandTextProcessing\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\C#\Tree\StringsandTextProcessing\Test\obj\Debug\Test.exe
+E:\C#\Tree\StringsandTextProcessing\Test\obj\Debug\Test.pdb

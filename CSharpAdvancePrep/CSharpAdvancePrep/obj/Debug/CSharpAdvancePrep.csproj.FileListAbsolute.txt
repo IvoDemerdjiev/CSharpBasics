@@ -1,0 +1,6 @@
+D:\C#\Tree\CSharpAdvancePrep\CSharpAdvancePrep\bin\Debug\CSharpAdvancePrep.exe.config
+D:\C#\Tree\CSharpAdvancePrep\CSharpAdvancePrep\bin\Debug\CSharpAdvancePrep.exe
+D:\C#\Tree\CSharpAdvancePrep\CSharpAdvancePrep\bin\Debug\CSharpAdvancePrep.pdb
+D:\C#\Tree\CSharpAdvancePrep\CSharpAdvancePrep\obj\Debug\CSharpAdvancePrep.csprojResolveAssemblyReference.cache
+D:\C#\Tree\CSharpAdvancePrep\CSharpAdvancePrep\obj\Debug\CSharpAdvancePrep.exe
+D:\C#\Tree\CSharpAdvancePrep\CSharpAdvancePrep\obj\Debug\CSharpAdvancePrep.pdb

@@ -1,0 +1,12 @@
+D:\C#\Tree\StringsandTextProcessing\SubStringInText\bin\Debug\SubStringInText.exe.config
+D:\C#\Tree\StringsandTextProcessing\SubStringInText\bin\Debug\SubStringInText.exe
+D:\C#\Tree\StringsandTextProcessing\SubStringInText\bin\Debug\SubStringInText.pdb
+D:\C#\Tree\StringsandTextProcessing\SubStringInText\obj\Debug\SubStringInText.csprojResolveAssemblyReference.cache
+D:\C#\Tree\StringsandTextProcessing\SubStringInText\obj\Debug\SubStringInText.exe
+D:\C#\Tree\StringsandTextProcessing\SubStringInText\obj\Debug\SubStringInText.pdb
+E:\C#\Tree\StringsandTextProcessing\SubStringInText\bin\Debug\SubStringInText.exe.config
+E:\C#\Tree\StringsandTextProcessing\SubStringInText\obj\Debug\SubStringInText.exe
+E:\C#\Tree\StringsandTextProcessing\SubStringInText\obj\Debug\SubStringInText.pdb
+E:\C#\Tree\StringsandTextProcessing\SubStringInText\bin\Debug\SubStringInText.exe
+E:\C#\Tree\StringsandTextProcessing\SubStringInText\bin\Debug\SubStringInText.pdb
+E:\C#\Tree\StringsandTextProcessing\SubStringInText\obj\Debug\SubStringInText.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\C#\Tree\Exam\ExamTask\bin\Debug\ExamTask.exe.config
+D:\C#\Tree\Exam\ExamTask\bin\Debug\ExamTask.exe
+D:\C#\Tree\Exam\ExamTask\bin\Debug\ExamTask.pdb
+D:\C#\Tree\Exam\ExamTask\obj\Debug\ExamTask.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Exam\ExamTask\obj\Debug\ExamTask.exe
+D:\C#\Tree\Exam\ExamTask\obj\Debug\ExamTask.pdb

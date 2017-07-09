@@ -1,0 +1,6 @@
+D:\C#\Tree\ExceptionHandling\PickNumberIn\bin\Debug\PickNumberIn.exe.config
+D:\C#\Tree\ExceptionHandling\PickNumberIn\bin\Debug\PickNumberIn.exe
+D:\C#\Tree\ExceptionHandling\PickNumberIn\bin\Debug\PickNumberIn.pdb
+D:\C#\Tree\ExceptionHandling\PickNumberIn\obj\Debug\PickNumberIn.exe
+D:\C#\Tree\ExceptionHandling\PickNumberIn\obj\Debug\PickNumberIn.pdb
+D:\C#\Tree\ExceptionHandling\PickNumberIn\obj\Debug\PickNumberIn.csprojResolveAssemblyReference.cache

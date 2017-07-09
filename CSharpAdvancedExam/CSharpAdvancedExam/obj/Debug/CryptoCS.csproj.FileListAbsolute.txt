@@ -1,0 +1,9 @@
+D:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\bin\Debug\CSharpAdvancedExam.exe.config
+D:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\bin\Debug\CSharpAdvancedExam.exe
+D:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\bin\Debug\CSharpAdvancedExam.pdb
+D:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\obj\Debug\CryptoCS.csprojResolveAssemblyReference.cache
+D:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\obj\Debug\CSharpAdvancedExam.exe
+D:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\obj\Debug\CSharpAdvancedExam.pdb
+E:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\bin\Debug\CSharpAdvancedExam.exe.config
+E:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\obj\Debug\CSharpAdvancedExam.exe
+E:\C#\Tree\CSharpAdvancedExam\CSharpAdvancedExam\obj\Debug\CSharpAdvancedExam.pdb

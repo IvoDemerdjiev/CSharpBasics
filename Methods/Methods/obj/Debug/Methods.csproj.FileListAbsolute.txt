@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\Methods\bin\Debug\Methods.exe.config
+D:\C#\Tree\Methods\Methods\bin\Debug\Methods.exe
+D:\C#\Tree\Methods\Methods\bin\Debug\Methods.pdb
+D:\C#\Tree\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Methods\Methods\obj\Debug\Methods.exe
+D:\C#\Tree\Methods\Methods\obj\Debug\Methods.pdb

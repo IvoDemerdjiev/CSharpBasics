@@ -1,0 +1,6 @@
+D:\C#\Tree\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+D:\C#\Tree\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe
+D:\C#\Tree\Arrays\MaximalKSum\bin\Debug\MaximalKSum.pdb
+D:\C#\Tree\Arrays\MaximalKSum\obj\Debug\MaximalKSum.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Arrays\MaximalKSum\obj\Debug\MaximalKSum.exe
+D:\C#\Tree\Arrays\MaximalKSum\obj\Debug\MaximalKSum.pdb

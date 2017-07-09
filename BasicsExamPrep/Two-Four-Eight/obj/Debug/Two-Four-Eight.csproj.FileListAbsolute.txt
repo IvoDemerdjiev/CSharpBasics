@@ -1,0 +1,5 @@
+D:\C#\Tree\ExamPrep\Two-Four-Eight\bin\Debug\Two-Four-Eight.exe.config
+D:\C#\Tree\ExamPrep\Two-Four-Eight\bin\Debug\Two-Four-Eight.exe
+D:\C#\Tree\ExamPrep\Two-Four-Eight\bin\Debug\Two-Four-Eight.pdb
+D:\C#\Tree\ExamPrep\Two-Four-Eight\obj\Debug\Two-Four-Eight.exe
+D:\C#\Tree\ExamPrep\Two-Four-Eight\obj\Debug\Two-Four-Eight.pdb

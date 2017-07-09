@@ -1,0 +1,5 @@
+D:\C#\Tree\Strings\Split\bin\Debug\Split.exe.config
+D:\C#\Tree\Strings\Split\bin\Debug\Split.exe
+D:\C#\Tree\Strings\Split\bin\Debug\Split.pdb
+D:\C#\Tree\Strings\Split\obj\Debug\Split.exe
+D:\C#\Tree\Strings\Split\obj\Debug\Split.pdb

@@ -1,0 +1,6 @@
+D:\C#\Tree\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\C#\Tree\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\C#\Tree\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\C#\Tree\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\C#\Tree\Arrays\Arrays\obj\Debug\Arrays.pdb

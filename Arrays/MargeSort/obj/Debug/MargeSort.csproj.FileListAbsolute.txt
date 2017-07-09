@@ -1,0 +1,6 @@
+D:\C#\Tree\Arrays\MargeSort\bin\Debug\MargeSort.exe.config
+D:\C#\Tree\Arrays\MargeSort\bin\Debug\MargeSort.exe
+D:\C#\Tree\Arrays\MargeSort\bin\Debug\MargeSort.pdb
+D:\C#\Tree\Arrays\MargeSort\obj\Debug\MargeSort.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Arrays\MargeSort\obj\Debug\MargeSort.exe
+D:\C#\Tree\Arrays\MargeSort\obj\Debug\MargeSort.pdb

@@ -1,0 +1,6 @@
+D:\C#\Tree\Methods\LastNumber\bin\Debug\LastNumber.exe.config
+D:\C#\Tree\Methods\LastNumber\bin\Debug\LastNumber.exe
+D:\C#\Tree\Methods\LastNumber\bin\Debug\LastNumber.pdb
+D:\C#\Tree\Methods\LastNumber\obj\Debug\LastNumber.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Methods\LastNumber\obj\Debug\LastNumber.exe
+D:\C#\Tree\Methods\LastNumber\obj\Debug\LastNumber.pdb

@@ -1,0 +1,10 @@
+D:\C#\Tree\StringsandTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config
+D:\C#\Tree\StringsandTextProcessing\ParseURL\bin\Debug\ParseURL.exe
+D:\C#\Tree\StringsandTextProcessing\ParseURL\bin\Debug\ParseURL.pdb
+D:\C#\Tree\StringsandTextProcessing\ParseURL\obj\Debug\ParseURL.exe
+D:\C#\Tree\StringsandTextProcessing\ParseURL\obj\Debug\ParseURL.pdb
+E:\C#\Tree\StringsandTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config
+E:\C#\Tree\StringsandTextProcessing\ParseURL\bin\Debug\ParseURL.exe
+E:\C#\Tree\StringsandTextProcessing\ParseURL\bin\Debug\ParseURL.pdb
+E:\C#\Tree\StringsandTextProcessing\ParseURL\obj\Debug\ParseURL.exe
+E:\C#\Tree\StringsandTextProcessing\ParseURL\obj\Debug\ParseURL.pdb
